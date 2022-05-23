@@ -6,4 +6,4 @@ const items = [
   { id: 5, name: "Cookies", category: "Dessert" },
 ];
 
-export default items;
+export default items; 
